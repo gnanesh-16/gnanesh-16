@@ -27,7 +27,8 @@ In today’s fast-paced digital world, the ability to code efficiently and effec
 
 [Read the full article on Medium](https://medium.com/@GnaneshBalusa/1-sending-can-frames-using-the-cangsend-python-package-c4d8bdcc55ec)
 
-![Qwen Code Interpreter](![image](https://github.com/user-attachments/assets/8102be06-472a-4ceb-b298-5affc3e39ce8)
+![Qwen Code Interpreter](![qwen](https://github.com/user-attachments/assets/1ff0806f-d1ce-4b37-934b-6655dcd019ff)
+)
 )
 
 <!-- END YOUTUBE-CARDS -->
