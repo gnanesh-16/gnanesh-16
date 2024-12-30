@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanesh-16&theme=darkhub" alt="gnanesh-16" /></a> </p>
 
-- 🔭 I’m currently working on [Shell-ai](https://github.com/ibigio/shell-ai)
+- 🔭 I’m currently working on [Web Automation with Aritifical Intellegence (Gigna)](https://github.com/gnanesh-16/Gigwey-/blob/main/README.md)
 
 - 👯 I’m looking to collaborate on [Phidata](https://github.com/phidatahq/phidata)
 
