@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Phidata](https://github.com/phidatahq/phidata)
 
-### Blogs posts
+### Web Automation Comming soon .. A preview of it >>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
