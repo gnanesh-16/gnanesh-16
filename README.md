@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Web Automation with Aritifical Intellegence (Gigna)](https://github.com/gnanesh-16/GigWeyhecta)
 
-- 👯 I’m looking to collaborate on [Phidata](https://github.com/phidatahq/phidata)
-
 ### Web Automation Comming soon .. A preview of it >>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
