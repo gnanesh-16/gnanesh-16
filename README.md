@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gnanesh Balusa</h1>
-<h3 align="center"> Software Engineer ex TIHAN IIT HYDERABD @Research AI Software Engineer </h3> 
+<h3 align="center"> Ex:- Research Ai Software Engineer at TIHAN IIT HYDERABD </h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanesh-16&theme=darkhub" alt="gnanesh-16" /></a> </p>
 
-- 🔭 I’m currently working on [Web Automation with Aritifical Intellegence (Gigna)](https://github.com/gnanesh-16/GigWeyhecta)
 
-### Web Automation Comming soon .. A preview of it >>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-![image](https://github.com/user-attachments/assets/ac86a369-2e4e-4d14-ad41-5dd3462e836b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
