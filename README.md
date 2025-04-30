@@ -122,7 +122,7 @@ Software Engineer with expertise in building robust, scalable applications and s
 <br>
 
 <!-- GitHub Contribution Graph with alternative styling -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution Graph"/> -->
 
 <!-- ------------------------------------------------------------ --->
 
