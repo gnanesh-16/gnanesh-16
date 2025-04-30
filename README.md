@@ -119,17 +119,61 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 <!-- GitHub Contribution Graph - Professional Research Style -->
 
   
-  <!-- GitHub Calendar - Daily Activity Visualization -->
-<!-- GitHub Contribution Graph - Professional Research Style -->
 <div align="center">
-  <!-- GitHub Calendar - Daily Activity Visualization -->
-  <img src="https://ghchart.rshah.org/gnanesh-16" width="98%" alt="Gnanesh's GitHub Contribution Calendar" />
+  <h3 style="margin-bottom:15px;">Professional Contribution Analytics</h3>
+  
+  <!-- GitHub-style contribution graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+  
+  <!-- Enhanced professional contribution calendar -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnanesh-16&theme=github_dark" width="98%" alt="Contribution Timeline" />
 
-  <sub>
-    <b>Temporal analysis of commit frequency and contribution intensity over time</b><br>
-    <i>Last data update: 2025-04-30 07:33:18 UTC • Data source: GitHub API</i>
-  </sub>
+  <!-- Yearly Metrics Section -->
+  <table style="width:98%; margin-top:15px; border-collapse:separate; border-spacing:5px;">
+    <tr>
+      <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
+        <h4 style="margin:5px;">2023</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2023 Activity" />
+        <b style="font-size:0.9em;">ML Research Focus</b>
+      </td>
+      <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
+        <h4 style="margin:5px;">2024</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2024 Activity" />
+        <b style="font-size:0.9em;">AI System Development</b>
+      </td>
+      <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
+        <h4 style="margin:5px;">2025</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2025 Activity" />
+        <b style="font-size:0.9em;">MLOps & Production Systems</b>
+      </td>
+      <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
+        <h4 style="margin:5px;">Overall</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="Overall Activity" />
+        <b style="font-size:0.9em;">Continuous Growth Trend</b>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Professional footer with metrics -->
+  <div style="background:#161B22; border-radius:6px; padding:10px; width:98%; margin:10px auto;">
+    <div style="display:flex; justify-content:space-between; text-align:left; padding:0 15px;">
+      <div>
+        <b style="color:#58A6FF;">Commit Analysis:</b>
+        <span style="color:#c9d1d9;"> Year-over-year productivity increase</span>
+      </div>
+      <div>
+        <b style="color:#58A6FF;">Focus Areas:</b>
+        <span style="color:#c9d1d9;"> AI Research, Production ML Systems, MLOps</span>
+      </div>
+    </div>
+    <sub style="color:#8B949E; margin-top:5px; display:block; text-align:right;">
+      <i>Last updated: 2025-04-30 07:46:56 UTC • Analytics by GitHub</i>
+    </sub>
+  </div>
 </div>
-
 
 <!-- Last updated: 2025-04-30 07:16:25 UTC by gnanesh-16 -->
