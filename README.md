@@ -120,17 +120,8 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 
   
 <div align="center">
-  <h3 style="margin-bottom:15px;">Professional Contribution Analytics</h3>
   
-  <!-- GitHub-style contribution graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/gnanesh-16/gnanesh-16/output/github-contribution-grid-snake-dark.svg">
-  </picture>
   
-  <!-- Enhanced professional contribution calendar -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnanesh-16&theme=github_dark" width="98%" alt="Contribution Timeline" />
 
   <!-- Yearly Metrics Section -->
   <table style="width:98%; margin-top:15px; border-collapse:separate; border-spacing:5px;">
@@ -161,14 +152,6 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
   <!-- Professional footer with metrics -->
   <div style="background:#161B22; border-radius:6px; padding:10px; width:98%; margin:10px auto;">
     <div style="display:flex; justify-content:space-between; text-align:left; padding:0 15px;">
-      <div>
-        <b style="color:#58A6FF;">Commit Analysis:</b>
-        <span style="color:#c9d1d9;"> Year-over-year productivity increase</span>
-      </div>
-      <div>
-        <b style="color:#58A6FF;">Focus Areas:</b>
-        <span style="color:#c9d1d9;"> AI Research, Production ML Systems, MLOps</span>
-      </div>
     </div>
     <sub style="color:#8B949E; margin-top:5px; display:block; text-align:right;">
       <i>Last updated: 2025-04-30 07:46:56 UTC • Analytics by GitHub</i>
