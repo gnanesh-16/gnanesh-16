@@ -19,7 +19,7 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 - Working on: **Production-ready ML Systems**
 - Learning: **MLOps & Large Language Models**
 - Open to: **AI Research & Engineering Roles**
-- Contact: **gnaneshbalusa@gmail.com**
+- Contact: **Linkedin/gnaneshbalusa**
 
 <!-- GitHub Stats Section -->
 <table border="0">
