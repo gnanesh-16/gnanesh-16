@@ -3,9 +3,14 @@
 <h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnanesh-16&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
+ <!-- <img src="https://komarev.com/ghpvc/?username=gnanesh-16&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> -->
   <a href="https://linkedin.com/in/gnaneshbalusa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gnaneshbalusa016g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   <a href="https://medium.com/@gnaneshbalusa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+   <!-- <a href="https://www.credly.com/users/gnaneshbalusa">
+    <img src="https://img.shields.io/badge/Certifications-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Certifications" /> 
+  <a href="https://github.com/gnanesh-16?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://img.shields.io/badge/Top_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Top Projects" /> -->
 </p>
 
 <p align="center">
