@@ -35,69 +35,77 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
   </tr>
 </table>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanesh-16&theme=radical&hide_border=true" />
-</div>
-
-<table width="100%">
+<!-- Streak and Tech Stack Side by Side -->
+<table border="0" width="100%">
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
+    <td width="40%" valign="top">
+      <!-- Current Streak -->
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanesh-16&theme=radical&hide_border=true" />
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="48" height="48" />
-      <br>Django
-    </td>
-    <td align="center" width="110">
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="48" height="48" />
-      <br>Jupyter
+    <td width="60%" valign="top">
+      <!-- Tech Stack -->
+      <table width="100%">
+        <tr>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            <br>Python
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+            <br>C++
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+            <br>JavaScript
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+            <br>AWS
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+            <br>Kubernetes
+          </td>
+          <td align="center" width="14%">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+            <br>Java
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
+            <br>TensorFlow
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
+            <br>PyTorch
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" />
+            <br>OpenCV
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+            <br>Git
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48" />
+            <br>PostgreSQL
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="48" height="48" />
+            <br>Django
+          </td>
+          <td align="center" width="14%">
+            <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="48" height="48" />
+            <br>Jupyter
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -110,3 +118,5 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 <div align="center">
    <b>AI Engineer | Machine Learning | Computer Vision | DevOps | Cloud Architecture</b>
 </div>
+
+<!-- Last updated: 2025-04-30 07:16:25 UTC by gnanesh-16 -->
