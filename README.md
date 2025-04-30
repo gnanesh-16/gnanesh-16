@@ -116,8 +116,4 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 <!-- GitHub Contribution Graph with alternative styling -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-<div align="center">
-   <b>AI Engineer | Machine Learning | Computer Vision | DevOps | Cloud Architecture</b>
-</div>
-
 <!-- Last updated: 2025-04-30 07:16:25 UTC by gnanesh-16 -->
