@@ -1,3 +1,4 @@
+<h1 align="center">Gnanesh Balusa</h1>
 <h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad</h3>
 
 <p align="center">
@@ -19,17 +20,23 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 - Open to: **AI Research & Engineering Roles**
 - Contact: **gnaneshbalusa@gmail.com**
 
-<div>
-  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=gnanesh-16&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gnanesh-16&theme=radical&utcOffset=8" />
-  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanesh-16&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br clear="both"/>
-<br>
+<!-- GitHub Stats Section -->
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gnanesh-16&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    </td>
+    <td width="33%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gnanesh-16&theme=radical&utcOffset=8" />
+    </td>
+    <td width="33%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanesh-16&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanesh-16&theme=radical&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanesh-16&theme=radical&hide_border=true" />
 </div>
 
 <table width="100%">
