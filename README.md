@@ -116,4 +116,20 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 <!-- GitHub Contribution Graph with alternative styling -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
+<!-- GitHub Contribution Graph - Professional Research Style -->
+
+  
+  <!-- GitHub Calendar - Daily Activity Visualization -->
+<!-- GitHub Contribution Graph - Professional Research Style -->
+<div align="center">
+  <!-- GitHub Calendar - Daily Activity Visualization -->
+  <img src="https://ghchart.rshah.org/gnanesh-16" width="98%" alt="Gnanesh's GitHub Contribution Calendar" />
+
+  <sub>
+    <b>Temporal analysis of commit frequency and contribution intensity over time</b><br>
+    <i>Last data update: 2025-04-30 07:33:18 UTC • Data source: GitHub API</i>
+  </sub>
+</div>
+
+
 <!-- Last updated: 2025-04-30 07:16:25 UTC by gnanesh-16 -->
