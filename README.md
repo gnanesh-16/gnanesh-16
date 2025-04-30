@@ -1,4 +1,3 @@
-<h1 align="center">Gnanesh Balusa</h1>
 <h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad</h3>
 
 <p align="center">
