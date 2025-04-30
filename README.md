@@ -12,14 +12,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gnanesh-16&theme=darkhub&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
+
+<!-------------About Me-------------------------------------->
 ## About Me
 
-AI Research Engineer specializing in deep learning and computer vision. Experienced in developing production-grade ML models with a focus on real-world impact. Strong background in research methodology and implementation of cutting-edge AI solutions.
+Software Engineer with expertise in building robust, scalable applications and system architecture. Experienced in full-stack development with a strong foundation in software design patterns, data structures, and algorithm optimization. Proven track record of delivering production-grade solutions that balance technical excellence with business requirements.
 
-- Working on: **Production-ready ML Systems**
-- Learning: **MLOps & Large Language Models**
-- Open to: **AI Research & Engineering Roles**
-- Contact: **Linkedin/gnaneshbalusa**
+- **Current Focus:** Production-ready Systems & API Development
+- **Technical Growth:** Cloud Architecture, Distributed Systems & Performance Optimization
+- **Professional Interests:** Software Architecture, System Design, Backend Engineering
+- **Connect:** [LinkedIn/gnaneshbalusa](https://linkedin.com/in/gnaneshbalusa)
+
+> "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported." — Jeff Atwood
+
+
+
+<!---------------------------------
 
 <!-- GitHub Stats Section -->
 <table border="0">
