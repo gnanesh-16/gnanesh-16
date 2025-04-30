@@ -116,38 +116,39 @@ AI Research Engineer specializing in deep learning and computer vision. Experien
 <!-- GitHub Contribution Graph with alternative styling -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-<!-- GitHub Contribution Graph - Professional Research Style -->
+<!-- ------------------------------------------------------------ --->
 
-  
+
 <div align="center">
-  
-  
-
   <!-- Yearly Metrics Section -->
   <table style="width:98%; margin-top:15px; border-collapse:separate; border-spacing:5px;">
     <tr>
       <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
         <h4 style="margin:5px;">2023</h4>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2023 Activity" />
-        <b style="font-size:0.9em;">ML Research Focus</b>
+        <b style="font-size:0.9em;">Software Engineer Foundations</b>
       </td>
       <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
         <h4 style="margin:5px;">2024</h4>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2024 Activity" />
-        <b style="font-size:0.9em;">AI System Development</b>
+        <b style="font-size:0.9em;">Software Engineer Tools</b>
       </td>
       <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
         <h4 style="margin:5px;">2025</h4>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="2025 Activity" />
-        <b style="font-size:0.9em;">MLOps & Production Systems</b>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150&from=2025-01-01&to=2025-12-31" width="100%" alt="2025 Activity" />
+        <b style="font-size:0.9em;">Software Engineer Research</b>
       </td>
       <td width="25%" align="center" style="background:#0D1117; border-radius:6px; padding:8px;">
         <h4 style="margin:5px;">Overall</h4>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=false&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="Overall Activity" />
-        <b style="font-size:0.9em;">Continuous Growth Trend</b>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=true&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=150" width="100%" alt="Overall Activity" />
+        <b style="font-size:0.9em;">Continuous Growth Trajectory</b>
       </td>
     </tr>
   </table>
+
+
+<!----------------------------------------------------->
+
 
   <!-- Professional footer with metrics -->
   <div style="background:#161B22; border-radius:6px; padding:10px; width:98%; margin:10px auto;">
