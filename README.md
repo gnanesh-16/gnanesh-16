@@ -1,6 +1,6 @@
 
 <h1 align="center">Gnanesh Balusa</h1>
-<h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad</h3>
+<h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad & Trainee @McKnisey & Company</h3>
 
 <p align="center">
  <!-- <img src="https://komarev.com/ghpvc/?username=gnanesh-16&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> -->
