@@ -1,17 +1,26 @@
 
 <h1 align="center">Gnanesh Balusa</h1>
-<h3 align="center">Former Research AI Software Engineer Intern | TIHAN, IIT Hyderabad & Trainee @McKnisey & Company</h3>
+<!-- <h3 align="center">Research AI Software Engineer | TIHAN, IIT Hyderabad & Trainee @McKnisey & Company</h3> -->
 
 <p align="center">
- <!-- <img src="https://komarev.com/ghpvc/?username=gnanesh-16&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> -->
-  <a href="https://linkedin.com/in/gnaneshbalusa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gnaneshbalusa016g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <a href="https://medium.com/@gnaneshbalusa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-   <!-- <a href="https://www.credly.com/users/gnaneshbalusa">
-    <img src="https://img.shields.io/badge/Certifications-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Certifications" /> 
-  <a href="https://github.com/gnanesh-16?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Top_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Top Projects" /> -->
+  <!-- Profile views badge (optional, currently commented out) -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=gnanesh-16&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> -->
+
+  <!-- Social badges -->
+  <a href="https://www.linkedin.com/in/gnaneshbalusa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://gnanesh-balusa-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/gnanesh-16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://scholar.google.com/citations?user=3NC81YIAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gnanesh-16&theme=darkhub&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
