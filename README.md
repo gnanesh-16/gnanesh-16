@@ -30,8 +30,8 @@
 <!-------------About Me-------------------------------------->
 ## About Me
 
-Working at [@Amazon]([url](https://www.aboutamazon.com/)) as Machine Learning Data Scientist Associate 2 
-Software Engineer with expertise in building robust, scalable applications and system architecture. Experienced in full-stack development with a strong foundation in software design patterns, data structures, and algorithm optimization. Proven track record of delivering production-grade solutions that balance technical excellence with business requirements.
+Working as a Machine Learning Data Scientist Associate 2 at [Amazon](https://www.aboutamazon.com/).
+past worked as Software Engineer with expertise in building robust, scalable applications and system architecture. Experienced in full-stack development with a strong foundation in software design patterns, data structures, and algorithm optimization. Proven track record of delivering production-grade solutions that balance technical excellence with business requirements.
 
 - **Current Focus:** Production-ready Systems & API Development
 - **Technical Growth:** Cloud Architecture, Distributed Systems & Performance Optimization
