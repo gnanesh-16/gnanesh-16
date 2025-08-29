@@ -22,10 +22,9 @@
 </p>
 
 
-<p align="center">
+ <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gnanesh-16&theme=darkhub&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
-
+</p> -->
 
 <!-------------About Me-------------------------------------->
 ## About Me
