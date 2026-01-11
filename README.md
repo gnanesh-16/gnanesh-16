@@ -13,9 +13,10 @@
 <a href="https://scholar.google.com/citations?user=3NC81YIAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
 
-<p align="center">
-Machine Learning Associate 2, L3 @Amazon building low-latency ML inference systems, and distributed data pipelines on AWS.
-</p>
+<div align="center" style="border:1px solid #30363d; border-radius:8px; padding:10px; max-width:760px; margin:0 auto 12px auto; background:#0d1117;">
+<b>Machine Learning Associate 2, L3 @ Amazon</b><br/>
+Building low-latency ML inference systems and distributed data pipelines on AWS.
+</div>
 
 <p align="center">
 <!-- Tech Stack inline -->
