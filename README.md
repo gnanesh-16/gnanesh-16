@@ -43,7 +43,7 @@
 **GitHub:** [@gnanesh-16](https://github.com/gnanesh-16)
 **Linkedin:** [@gnaneshbalusa](https://in.linkedin.com/in/gnaneshbalusa)
 
-For collaboration inquiries, research discussions, or technical consulting, please reach out via [Public](https://about.gnaneshbalusa.com/contact/bookacall).
+For collaboration inquiries, research discussions, or technical consulting, please reach out via [Public](https://gnaneshbalusa.com/contact).
 
 ---
 
