@@ -1,6 +1,6 @@
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Gnanesh Balusa</h1>
+<h1 align="center">Gnanesh Balusa</h1>
 <p align="center">
-  <a href="https://gnanie.vercel.app/"><code>gnaneshbalusa.ai</code></a> │
+  <a href="https://gnaneshbalusa.com/"><code>gnaneshbalusa.ai</code></a> │
   <a href="https://www.linkedin.com/in/gnaneshbalusa"><code>@gnaneshbalusa</code></a> │
   <a href="https://github.com/gnanesh-16"><code>@gnanesh-16</code></a>
 </p>
