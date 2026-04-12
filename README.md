@@ -1,9 +1,9 @@
 <h1 align="center">Gnanesh Balusa</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://gnaneshbalusa.com/"><code>gnaneshbalusa.ai</code></a> │
   <a href="https://www.linkedin.com/in/gnaneshbalusa"><code>@gnaneshbalusa</code></a> │
   <a href="https://github.com/gnanesh-16"><code>@gnanesh-16</code></a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gnaneshbalusa"><img src="https://img.shields.io/badge/-Gnanesh_Balusa-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
