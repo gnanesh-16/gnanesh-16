@@ -36,4 +36,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanesh-16&theme=github-dark&hide_title=true&hide_border=true&area=true&point=39D353&line=39D353&bg_color=0D1117&custom_title=&height=170" width="100%" />
 </p>
 
-<sub align="right">Last updated: 2026-01-11</sub>
+## Contact
+
+**Email:** contact@gnaneshbalusa.com (Available upon request)  
+**Location:** Hyderabad, Telangana, India  
+**GitHub:** [@gnanesh-16](https://github.com/gnanesh-16)
+**Linkedin:** [@gnaneshbalusa](https://in.linkedin.com/in/gnaneshbalusa)
+
+For collaboration inquiries, research discussions, or technical consulting, please reach out via [LinkedIn](https://linkedin.com/in/gnaneshbalusa).
+
+---
+
+<sub>Last updated: April 2026</sub>
