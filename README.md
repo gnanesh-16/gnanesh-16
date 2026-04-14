@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gnaneshbalusa"><img src="https://img.shields.io/badge/-Gnanesh_Balusa-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://gnanie.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="https://gnaneshbalusa.com/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
   <a href="https://github.com/gnanesh-16"><img src="https://img.shields.io/badge/-@gnanesh--16-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=3NC81YIAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
